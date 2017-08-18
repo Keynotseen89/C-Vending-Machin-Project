@@ -1,0 +1,186 @@
+Machine: 100A1
+Initial balance: $1.10  ($ 0, Q 2, D 4, N 4)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+Total Cost:           0
+
+Current Balance: $0.00($ 0, Q 2, D 4, N 4)
+
+Code      ID      Description      Initial    Current
+1A      1034           candy bar         1 candy bar
+1B      1000     chocolate chips        10 chocolate chips
+1C      1100             cookies        10   cookies
+1D      1123             brownie        20   brownie
+1E      1210               donut         5     donut
+
+
+
+Machine: 100A2
+Initial balance: $6.50  ($ 0, Q 20, D 10, N 10)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+Total Cost:           0
+
+Current Balance: $0.00($ 0, Q 20, D 10, N 10)
+
+Code      ID      Description      Initial    Current
+1A      2180         coke bottle        20 coke bottle
+1B      1283            coke can        20  coke can
+1C      3629    diet coke bottle         5 diet coke bottle
+1D      3649  12 oz orange juice         3 12 oz orange juice
+1E      4051   8 oz orange juice        15 8 oz orange juice
+1F      4211         apple juice         1 apple juice
+1G      5318            gatorade         5  gatorade
+
+
+
+Machine: 100A1
+Initial balance: $1.10  ($ 0, Q 2, D 4, N 4)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+  1       1B          35    100 (1, 0, 0, 0) 65    (0, 2, 1, 1)
+  2       1C          75    100 (1, 0, 0, 0) 25    (0, 0, 2, 1)
+Total Cost:           110
+
+Current Balance: $0.00($ 0, Q 2, D 4, N 4)
+
+Code      ID      Description      Initial    Current
+1A      1034           candy bar         1 candy bar
+1B      1000     chocolate chips        10 chocolate chips
+1C      1100             cookies        10   cookies
+1D      1123             brownie        20   brownie
+1E      1210               donut         5     donut
+
+
+
+Machine: 100A2
+Initial balance: $6.50  ($ 0, Q 20, D 10, N 10)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+Total Cost:           0
+
+Current Balance: $0.00($ 0, Q 20, D 10, N 10)
+
+Code      ID      Description      Initial    Current
+1A      2180         coke bottle        20 coke bottle
+1B      1283            coke can        20  coke can
+1C      3629    diet coke bottle         5 diet coke bottle
+1D      3649  12 oz orange juice         3 12 oz orange juice
+1E      4051   8 oz orange juice        15 8 oz orange juice
+1F      4211         apple juice         1 apple juice
+1G      5318            gatorade         5  gatorade
+
+
+
+Machine: 100A1
+Initial balance: $1.10  ($ 0, Q 2, D 4, N 4)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+  1       1B          35    100 (1, 0, 0, 0) 65    (0, 2, 1, 1)
+Total Cost:           35
+
+Current Balance: $0.00($ 0, Q 2, D 4, N 4)
+
+Code      ID      Description      Initial    Current
+1A      1034           candy bar         1 candy bar
+1B      1000     chocolate chips        10 chocolate chips
+1C      1100             cookies        10   cookies
+1D      1123             brownie        20   brownie
+1E      1210               donut         5     donut
+
+
+
+Machine: 100A2
+Initial balance: $6.50  ($ 0, Q 20, D 10, N 10)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+Total Cost:           0
+
+Current Balance: $0.00($ 0, Q 20, D 10, N 10)
+
+Code      ID      Description      Initial    Current
+1A      2180         coke bottle        20 coke bottle
+1B      1283            coke can        20  coke can
+1C      3629    diet coke bottle         5 diet coke bottle
+1D      3649  12 oz orange juice         3 12 oz orange juice
+1E      4051   8 oz orange juice        15 8 oz orange juice
+1F      4211         apple juice         1 apple juice
+1G      5318            gatorade         5  gatorade
+
+
+
+Machine: 100A1
+Initial balance: $1.10  ($ 0, Q 2, D 4, N 4)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+  1       1B          35    100 (1, 0, 0, 0) 65    (0, 2, 1, 1)
+Total Cost:           35
+
+Current Balance: $0.00($ 0, Q 2, D 4, N 4)
+
+Code      ID      Description      Initial    Current
+1A      1034           candy bar         1 candy bar
+1B      1000     chocolate chips        10 chocolate chips
+1C      1100             cookies        10   cookies
+1D      1123             brownie        20   brownie
+1E      1210               donut         5     donut
+
+
+
+Machine: 100A2
+Initial balance: $6.50  ($ 0, Q 20, D 10, N 10)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+Total Cost:           0
+
+Current Balance: $0.00($ 0, Q 20, D 10, N 10)
+
+Code      ID      Description      Initial    Current
+1A      2180         coke bottle        20 coke bottle
+1B      1283            coke can        20  coke can
+1C      3629    diet coke bottle         5 diet coke bottle
+1D      3649  12 oz orange juice         3 12 oz orange juice
+1E      4051   8 oz orange juice        15 8 oz orange juice
+1F      4211         apple juice         1 apple juice
+1G      5318            gatorade         5  gatorade
+
+
+
+Machine: 100A1
+Initial balance: $1.10  ($ 0, Q 2, D 4, N 4)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+  1       1B          35    100 (1, 0, 0, 0) 65    (0, 2, 1, 1)
+  2       1C          75    100 (1, 0, 0, 0) 25    (0, 0, 2, 1)
+Total Cost:           110
+
+Current Balance: $0.00($ 0, Q 2, D 4, N 4)
+
+Code      ID      Description      Initial    Current
+1A      1034           candy bar         1 candy bar
+1B      1000     chocolate chips        10 chocolate chips
+1C      1100             cookies        10   cookies
+1D      1123             brownie        20   brownie
+1E      1210               donut         5     donut
+
+
+
+Machine: 100A2
+Initial balance: $6.50  ($ 0, Q 20, D 10, N 10)
+
+Trans   Items       Cost   Paid ($, Q, D, N)Change  (D, Q, D, N)
+Total Cost:           0
+
+Current Balance: $0.00($ 0, Q 20, D 10, N 10)
+
+Code      ID      Description      Initial    Current
+1A      2180         coke bottle        20 coke bottle
+1B      1283            coke can        20  coke can
+1C      3629    diet coke bottle         5 diet coke bottle
+1D      3649  12 oz orange juice         3 12 oz orange juice
+1E      4051   8 oz orange juice        15 8 oz orange juice
+1F      4211         apple juice         1 apple juice
+1G      5318            gatorade         5  gatorade
+
+
+
